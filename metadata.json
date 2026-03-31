@@ -1,0 +1,5 @@
+{
+  "name": "SortVision",
+  "description": "An interactive sorting algorithm visualizer with real-time code legends and adjustable array sizes.",
+  "requestFramePermissions": []
+}

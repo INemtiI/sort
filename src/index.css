@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #7D84B2;
+  --color-secondary: #8E9DCC;
+  --color-accent: #D9DBF1;
+  --color-bg: #F9F9ED;
+  --color-success: #DBF4A7;
+  --color-ink: #141414;
+}
+
+@layer base {
+  body {
+    @apply bg-bg text-ink font-sans;
+  }
+}
